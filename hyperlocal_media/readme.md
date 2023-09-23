@@ -1,1 +1,1 @@
-
+The project is dedicated to analyzing and researching the content of hyperlocal media in VKontakte social media. VKontakte is one of the most popular social platforms in the post-socialist states. Posts from the largest hyperlocal media outlets in Perm Krai, Russia were collected using the popsters.ru service.
