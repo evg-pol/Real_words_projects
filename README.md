@@ -1,5 +1,5 @@
 # Real word projects in Python
-This is the list of data-driven projects designed to work with real data and aimed at achieving specific goals. 🔒 Please note: not all code and the analysis of the projects are presented here due to client confidentiality.
+This is the list of data-driven projects designed to work with real data and aimed at achieving specific goals. 🔒 Please note that the code and analysis for some projects are not presented here due to client confidentiality.
 
 | Name of the project | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
