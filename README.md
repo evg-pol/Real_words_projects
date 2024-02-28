@@ -1,6 +1,5 @@
 # Real word projects in Python
-This is the list of data-driven projects designed to work with real data and aimed at achieving specific goals. 🔒 Please note that the code and analysis for some projects are not presented here due to client confidentiality.
-
+This is the list of data-driven projects designed to work with real data and aimed at achieving specific goals. 🔒 Please note that the code and analysis for some projects are not presented here due to client confidentiality agreements. I am, however, available to discuss my contributions and the outcomes of these projects in a manner that respects these constraints.
 | Name of the project | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
 |Humanitarian 2 Humanitarian network project|Statistics without Borders project with Humanitarian to Humanitarian (H2H) network, aiming to analyze survey data, enhance survey design, and provide guidelines for better comparability of results across years. Additionally, sentiment analysis was performed for open-ended questions utilizing pre-trained DistilBERT models.| *pandas* *numpy* *matplotlib* *seaborn* *scipy* *wordcloud* *nltk* *sklearn* *BERT* *TextBlob* *SpaCy*|
